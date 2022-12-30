@@ -1,6 +1,6 @@
 # Sorting algorithm visualizer
 
-This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection .
+This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, quick, merge .
 
 **Live-** [sorting visualizer](https://ankit-dubey123.github.io/Sorting-Visualizer/)
 ## Purpose
@@ -15,3 +15,5 @@ This application supports the following sorting algorithms:
 1. **Bubble Sort**.
 2. **Insertion Sort**.
 3. **Selection Sort**.
+4. **Merge Sort**.
+5. **Quick Sort**.
